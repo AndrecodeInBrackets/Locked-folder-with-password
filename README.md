@@ -1,0 +1,3 @@
+# Locked folder with password
+This is a folder that you can lock with a password. You need to use a .bat file for this...
+The code is up there or at the Releases tab.
